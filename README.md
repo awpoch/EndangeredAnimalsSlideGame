@@ -4,6 +4,6 @@
 <p>Custom Animations</p>
 <p>Diffrent dificulty levels</p>
 
-To try the game just download EndangeredAnimals.exe and run it. 
+<p>To try the game just download EndangeredAnimals.exe and run it.</p>
 
 ![Alt text](EndangeredAnimalsAnimation.gif)
