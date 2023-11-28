@@ -8,10 +8,10 @@
 </p>
 
 ### More  Information:
-* Created with C++ and Qt
-* Fully responsive
-* Custom Animations
-* Multiple dificulty levels
+* I created this game using C++ and Qt
+* The game is fully responsive
+* It includes custom Animations
+* There are multiple dificulty levels
 
 ### Here's a preview:
 ![Alt text](EndangeredAnimalsAnimation.gif)
